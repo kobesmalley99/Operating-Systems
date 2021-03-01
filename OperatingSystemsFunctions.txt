@@ -1,0 +1,1 @@
+An operating system is softwafe that manages your computers hardwar, resources and common services. An operating system gives you an interface to be able to manage the computer. This allows you to easily work with documents, files, and pictures.
