@@ -1,2 +1,3 @@
 An operating system is softwafe that manages your computers hardwar, resources and common services. An operating system gives you an interface to be able to manage the computer. This allows you to easily work with documents, files, and pictures.
 Operating systems are used in pretty much everyones daily routine. All the smart phones run on operating systems that allow seemless ease of use.
+Operating systems vary based on the brand of computer you use. In apple computers they use IOS. most people use microsoft windows on their personal comnputers.
